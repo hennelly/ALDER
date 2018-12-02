@@ -65,7 +65,7 @@ chrom: 1
 checkmap: YES
 binsize: 0.0005
 ```
-**Note: the .ind file needs the population names 
+**Note: the .ind file needs the population names** 
 
 
 ## **3.) RUN ALDER**
