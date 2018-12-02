@@ -1,4 +1,4 @@
-# ALDER
+# ALDER for inferring admixture
 
 **ALDER** computes the weighted linkage disequilibrium (LD) statistic for making inference about popualtion admixture. 
 
